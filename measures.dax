@@ -1,0 +1,42 @@
+-- Assumes relationships: DimCountry[ISO 3 code] -> both fact tables,
+-- and DimDate[Year] -> both fact tables. Use ISO codes as relationship keys.
+Total Generation (TWh) = SUM(FactCountryYear[Generation (TWh)])
+
+Power Sector Emissions (MtCO2e) = SUM(FactCountryYear[Emissions (MtCO2e)])
+
+Carbon Intensity (gCO2e/kWh) =
+DIVIDE(
+    SUMX(FactCountryYear,
+        FactCountryYear[Emissions intensity (gCO2e/kWh)] * FactCountryYear[Generation (TWh)]),
+    [Total Generation (TWh)]
+)
+
+Clean Generation (TWh) =
+CALCULATE(
+    SUM(FactGenerationSource[Generation (TWh)]),
+    FactGenerationSource[Electricity source] IN {
+        "Solar", "Wind", "Hydro", "Bioenergy", "Other renewables", "Nuclear"
+    }
+)
+
+Fossil Generation (TWh) =
+CALCULATE(
+    SUM(FactGenerationSource[Generation (TWh)]),
+    FactGenerationSource[Electricity source] IN {"Coal", "Gas", "Other fossil"}
+)
+
+Clean Share (%) = DIVIDE([Clean Generation (TWh)], [Total Generation (TWh)])
+
+Fossil Share (%) = DIVIDE([Fossil Generation (TWh)], [Total Generation (TWh)])
+
+Wind + Solar (TWh) =
+CALCULATE(
+    SUM(FactGenerationSource[Generation (TWh)]),
+    FactGenerationSource[Electricity source] IN {"Wind", "Solar"}
+)
+
+Wind + Solar Share (%) = DIVIDE([Wind + Solar (TWh)], [Total Generation (TWh)])
+
+Generation YoY (%) =
+VAR PriorYear = CALCULATE([Total Generation (TWh)], DATEADD(DimDate[Date], -1, YEAR))
+RETURN DIVIDE([Total Generation (TWh)] - PriorYear, PriorYear)

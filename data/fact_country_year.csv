@@ -1,0 +1,751 @@
+Area,ISO 3 code,Year,Continent,Ember region,Generation (TWh),Emissions (MtCO2e),Emissions intensity (gCO2e/kWh)
+Argentina,ARG,2000,South America,Latin America and Caribbean,88.978,31.634,355.526
+Argentina,ARG,2001,South America,Latin America and Caribbean,90.138,27.223,302.015
+Argentina,ARG,2002,South America,Latin America and Caribbean,84.59,24.941,294.846
+Argentina,ARG,2003,South America,Latin America and Caribbean,92.059,29.127,316.395
+Argentina,ARG,2004,South America,Latin America and Caribbean,100.261,35.856,357.627
+Argentina,ARG,2005,South America,Latin America and Caribbean,105.75,37.775,357.21
+Argentina,ARG,2006,South America,Latin America and Caribbean,113.424,39.694,349.961
+Argentina,ARG,2007,South America,Latin America and Caribbean,113.525,44.062,388.126
+Argentina,ARG,2008,South America,Latin America and Caribbean,121.905,48.835,400.599
+Argentina,ARG,2009,South America,Latin America and Caribbean,122.326,46.775,382.38
+Argentina,ARG,2010,South America,Latin America and Caribbean,125.992,50.602,401.629
+Argentina,ARG,2011,South America,Latin America and Caribbean,129.483,54.367,419.878
+Argentina,ARG,2012,South America,Latin America and Caribbean,136.034,58.8,432.245
+Argentina,ARG,2013,South America,Latin America and Caribbean,139.441,58.889,422.322
+Argentina,ARG,2014,South America,Latin America and Caribbean,138.551,58.779,424.241
+Argentina,ARG,2015,South America,Latin America and Caribbean,145.422,62.038,426.607
+Argentina,ARG,2016,South America,Latin America and Caribbean,147.193,63.576,431.923
+Argentina,ARG,2017,South America,Latin America and Caribbean,145.618,61.956,425.469
+Argentina,ARG,2018,South America,Latin America and Caribbean,146.774,60.798,414.229
+Argentina,ARG,2019,South America,Latin America and Caribbean,139.53,55.479,397.613
+Argentina,ARG,2020,South America,Latin America and Caribbean,144.643,57.091,394.703
+Argentina,ARG,2021,South America,Latin America and Caribbean,153.152,62.33,406.981
+Argentina,ARG,2022,South America,Latin America and Caribbean,145.619,57.2,392.806
+Argentina,ARG,2023,South America,Latin America and Caribbean,148.572,52.136,350.914
+Argentina,ARG,2024,South America,Latin America and Caribbean,153.229,53.104,346.566
+Australia,AUS,2000,Oceania,Oceania,216.829,174.776,806.055
+Australia,AUS,2001,Oceania,Oceania,224.255,180.113,803.162
+Australia,AUS,2002,Oceania,Oceania,223.495,177.605,794.671
+Australia,AUS,2003,Oceania,Oceania,225.952,178.976,792.097
+Australia,AUS,2004,Oceania,Oceania,229.217,181.746,792.899
+Australia,AUS,2005,Oceania,Oceania,230.74,182.693,791.77
+Australia,AUS,2006,Oceania,Oceania,237.991,188.134,790.509
+Australia,AUS,2007,Oceania,Oceania,243.185,192.376,791.069
+Australia,AUS,2008,Oceania,Oceania,245.371,194.221,791.54
+Australia,AUS,2009,Oceania,Oceania,249.902,196.217,785.176
+Australia,AUS,2010,Oceania,Oceania,250.962,194.664,775.671
+Australia,AUS,2011,Oceania,Oceania,256.304,192.072,749.391
+Australia,AUS,2012,Oceania,Oceania,250.672,187.279,747.108
+Australia,AUS,2013,Oceania,Oceania,249.563,181.261,726.314
+Australia,AUS,2014,Oceania,Oceania,247.647,181.849,734.307
+Australia,AUS,2015,Oceania,Oceania,253.984,185.388,729.92
+Australia,AUS,2016,Oceania,Oceania,258.219,184.292,713.704
+Australia,AUS,2017,Oceania,Oceania,258.967,185.998,718.231
+Australia,AUS,2018,Oceania,Oceania,262.632,180.83,688.53
+Australia,AUS,2019,Oceania,Oceania,265.9,178.223,670.263
+Australia,AUS,2020,Oceania,Oceania,265.162,170.355,642.456
+Australia,AUS,2021,Oceania,Oceania,267.452,162.086,606.038
+Australia,AUS,2022,Oceania,Oceania,272.922,157.735,577.949
+Australia,AUS,2023,Oceania,Oceania,274.78,152.645,555.517
+Australia,AUS,2024,Oceania,Oceania,283.92,156.001,549.454
+Brazil,BRA,2000,South America,Latin America and Caribbean,348.921,31.202,89.424
+Brazil,BRA,2001,South America,Latin America and Caribbean,328.551,34.739,105.734
+Brazil,BRA,2002,South America,Latin America and Caribbean,345.723,33.643,97.312
+Brazil,BRA,2003,South America,Latin America and Caribbean,364.385,33.05,90.701
+Brazil,BRA,2004,South America,Latin America and Caribbean,387.492,39.444,101.793
+Brazil,BRA,2005,South America,Latin America and Caribbean,403.083,39.857,98.88
+Brazil,BRA,2006,South America,Latin America and Caribbean,419.449,40.242,95.94
+Brazil,BRA,2007,South America,Latin America and Caribbean,445.149,40.461,90.893
+Brazil,BRA,2008,South America,Latin America and Caribbean,463.172,52.617,113.601
+Brazil,BRA,2009,South America,Latin America and Caribbean,466.158,40.726,87.365
+Brazil,BRA,2010,South America,Latin America and Caribbean,515.799,58.879,114.151
+Brazil,BRA,2011,South America,Latin America and Caribbean,531.758,53.052,99.767
+Brazil,BRA,2012,South America,Latin America and Caribbean,552.498,70.913,128.35
+Brazil,BRA,2013,South America,Latin America and Caribbean,570.835,95.816,167.852
+Brazil,BRA,2014,South America,Latin America and Caribbean,590.542,113.942,192.945
+Brazil,BRA,2015,South America,Latin America and Caribbean,581.228,109.644,188.642
+Brazil,BRA,2016,South America,Latin America and Caribbean,578.898,86.638,149.66
+Brazil,BRA,2017,South America,Latin America and Caribbean,589.327,91.862,155.876
+Brazil,BRA,2018,South America,Latin America and Caribbean,601.396,82.369,136.963
+Brazil,BRA,2019,South America,Latin America and Caribbean,633.318,89.88,141.919
+Brazil,BRA,2020,South America,Latin America and Caribbean,628.764,83.847,133.352
+Brazil,BRA,2021,South America,Latin America and Caribbean,656.396,110.306,168.048
+Brazil,BRA,2022,South America,Latin America and Caribbean,677.162,69.998,103.37
+Brazil,BRA,2023,South America,Latin America and Caribbean,708.119,68.145,96.234
+Brazil,BRA,2024,South America,Latin America and Caribbean,751.335,76.493,101.809
+Canada,CAN,2000,North America,North America,603.816,148.406,245.78
+Canada,CAN,2001,North America,North America,587.755,150.318,255.749
+Canada,CAN,2002,North America,North America,599.792,147.078,245.215
+Canada,CAN,2003,North America,North America,588.27,148.064,251.694
+Canada,CAN,2004,North America,North America,598.51,140.898,235.415
+Canada,CAN,2005,North America,North America,620.48,139.668,225.097
+Canada,CAN,2006,North America,North America,608.428,131.803,216.629
+Canada,CAN,2007,North America,North America,634.185,144.504,227.858
+Canada,CAN,2008,North America,North America,635.1,135.632,213.56
+Canada,CAN,2009,North America,North America,613.878,125.479,204.404
+Canada,CAN,2010,North America,North America,607.012,130.433,214.877
+Canada,CAN,2011,North America,North America,638.281,131.645,206.249
+Canada,CAN,2012,North America,North America,636.549,123.147,193.46
+Canada,CAN,2013,North America,North America,655.681,122.639,187.041
+Canada,CAN,2014,North America,North America,652.953,123.387,188.968
+Canada,CAN,2015,North America,North America,661.088,121.944,184.46
+Canada,CAN,2016,North America,North America,667.127,120.738,180.982
+Canada,CAN,2017,North America,North America,669.344,115.228,172.151
+Canada,CAN,2018,North America,North America,661.211,113.014,170.92
+Canada,CAN,2019,North America,North America,655.696,111.512,170.067
+Canada,CAN,2020,North America,North America,655.881,106.093,161.756
+Canada,CAN,2021,North America,North America,652.404,107.949,165.463
+Canada,CAN,2022,North America,North America,664.535,107.032,161.063
+Canada,CAN,2023,North America,North America,643.455,114.188,177.461
+Canada,CAN,2024,North America,North America,642.583,118.727,184.765
+China,CHN,2000,Asia,Asia,1355.596,1062.124,783.511
+China,CHN,2001,Asia,Asia,1480.8,1129.669,762.877
+China,CHN,2002,Asia,Asia,1653.996,1279.037,773.301
+China,CHN,2003,Asia,Asia,1910.574,1511.108,790.918
+China,CHN,2004,Asia,Asia,2203.31,1715.317,778.518
+China,CHN,2005,Asia,Asia,2500.26,1955.508,782.122
+China,CHN,2006,Asia,Asia,2865.726,2254.424,786.685
+China,CHN,2007,Asia,Asia,3281.553,2576.944,785.282
+China,CHN,2008,Asia,Asia,3495.76,2611.734,747.115
+China,CHN,2009,Asia,Asia,3714.651,2797.891,753.204
+China,CHN,2010,Asia,Asia,4196.371,3115.596,742.45
+China,CHN,2011,Asia,Asia,4702.119,3545.421,754.005
+China,CHN,2012,Asia,Asia,4978.24,3592.798,721.7
+China,CHN,2013,Asia,Asia,5420.955,3898.357,719.127
+China,CHN,2014,Asia,Asia,5781.267,4022.333,695.753
+China,CHN,2015,Asia,Asia,5798.818,3883.496,669.705
+China,CHN,2016,Asia,Asia,6102.38,3986.75,653.311
+China,CHN,2017,Asia,Asia,6571.647,4247.116,646.279
+China,CHN,2018,Asia,Asia,7133.233,4558.825,639.097
+China,CHN,2019,Asia,Asia,7471.528,4647.236,621.993
+China,CHN,2020,Asia,Asia,7745.56,4717.42,609.048
+China,CHN,2021,Asia,Asia,8495.849,5117.294,602.329
+China,CHN,2022,Asia,Asia,8800.417,5191.966,589.968
+China,CHN,2023,Asia,Asia,9402.742,5513.447,586.366
+China,CHN,2024,Asia,Asia,10025.008,5603.628,558.965
+Egypt,EGY,2000,Africa,Africa,73.319,38.539,525.635
+Egypt,EGY,2001,Africa,Africa,80.712,43.092,533.898
+Egypt,EGY,2002,Africa,Africa,86.236,46.83,543.045
+Egypt,EGY,2003,Africa,Africa,92.186,51.265,556.104
+Egypt,EGY,2004,Africa,Africa,98.252,55.02,559.989
+Egypt,EGY,2005,Africa,Africa,104.947,59.503,566.981
+Egypt,EGY,2006,Africa,Africa,111.661,63.672,570.226
+Egypt,EGY,2007,Africa,Africa,119.867,68.029,567.537
+Egypt,EGY,2008,Africa,Africa,128.792,73.083,567.45
+Egypt,EGY,2009,Africa,Africa,134.267,77.394,576.419
+Egypt,EGY,2010,Africa,Africa,144.432,84.168,582.752
+Egypt,EGY,2011,Africa,Africa,149.563,87.217,583.146
+Egypt,EGY,2012,Africa,Africa,162.831,95.726,587.886
+Egypt,EGY,2013,Africa,Africa,165.064,97.252,589.178
+Egypt,EGY,2014,Africa,Africa,171.234,101.353,591.898
+Egypt,EGY,2015,Africa,Africa,181.836,107.685,592.209
+Egypt,EGY,2016,Africa,Africa,188.191,111.596,592.993
+Egypt,EGY,2017,Africa,Africa,193.211,114.909,594.733
+Egypt,EGY,2018,Africa,Africa,199.399,118.117,592.365
+Egypt,EGY,2019,Africa,Africa,200.563,116.822,582.47
+Egypt,EGY,2020,Africa,Africa,198.61,113.034,569.125
+Egypt,EGY,2021,Africa,Africa,209.656,119.101,568.078
+Egypt,EGY,2022,Africa,Africa,216.711,123.525,569.999
+Egypt,EGY,2023,Africa,Africa,221.918,126.776,571.274
+Egypt,EGY,2024,Africa,Africa,237.005,135.427,571.41
+France,FRA,2000,Europe,Europe,532.56,42.477,79.76
+France,FRA,2001,Europe,Europe,542.6,37.231,68.616
+France,FRA,2002,Europe,Europe,551.24,41.462,75.216
+France,FRA,2003,Europe,Europe,559.13,45.212,80.861
+France,FRA,2004,Europe,Europe,566.3,43.703,77.173
+France,FRA,2005,Europe,Europe,569.14,48.678,85.529
+France,FRA,2006,Europe,Europe,567.3,43.441,76.575
+France,FRA,2007,Europe,Europe,561.84,45.012,80.115
+France,FRA,2008,Europe,Europe,566.98,43.104,76.024
+France,FRA,2009,Europe,Europe,528.87,39.972,75.58
+France,FRA,2010,Europe,Europe,562.36,44.174,78.551
+France,FRA,2011,Europe,Europe,567.66,42.373,74.645
+France,FRA,2012,Europe,Europe,567.59,44.046,77.602
+France,FRA,2013,Europe,Europe,576.75,43.997,76.284
+France,FRA,2014,Europe,Europe,566.31,29.554,52.187
+France,FRA,2015,Europe,Europe,574.15,33.982,59.187
+France,FRA,2016,Europe,Europe,558.84,38.335,68.597
+France,FRA,2017,Europe,Europe,555.74,43.533,78.333
+France,FRA,2018,Europe,Europe,576.24,34.54,59.94
+France,FRA,2019,Europe,Europe,565.52,33.815,59.795
+France,FRA,2020,Europe,Europe,527.25,31.158,59.095
+France,FRA,2021,Europe,Europe,550.31,32.909,59.801
+France,FRA,2022,Europe,Europe,468.37,36.792,78.553
+France,FRA,2023,Europe,Europe,518.75,27.642,53.286
+France,FRA,2024,Europe,Europe,564.492,22.77,40.337
+Germany,DEU,2000,Europe,Europe,568.95,326.095,573.152
+Germany,DEU,2001,Europe,Europe,578.94,327.384,565.489
+Germany,DEU,2002,Europe,Europe,583.76,332.513,569.606
+Germany,DEU,2003,Europe,Europe,602.03,343.161,570.006
+Germany,DEU,2004,Europe,Europe,609.6,338.149,554.706
+Germany,DEU,2005,Europe,Europe,613.34,335.066,546.297
+Germany,DEU,2006,Europe,Europe,630.2,337.919,536.209
+Germany,DEU,2007,Europe,Europe,631.1,348.243,551.803
+Germany,DEU,2008,Europe,Europe,632.29,332.205,525.4
+Germany,DEU,2009,Europe,Europe,587.96,306.652,521.552
+Germany,DEU,2010,Europe,Europe,624.21,322.499,516.651
+Germany,DEU,2011,Europe,Europe,605.0,320.451,529.671
+Germany,DEU,2012,Europe,Europe,619.81,331.07,534.148
+Germany,DEU,2013,Europe,Europe,629.69,338.792,538.03
+Germany,DEU,2014,Europe,Europe,618.75,322.8,521.697
+Germany,DEU,2015,Europe,Europe,639.17,321.881,503.592
+Germany,DEU,2016,Europe,Europe,641.52,319.674,498.307
+Germany,DEU,2017,Europe,Europe,644.46,302.706,469.705
+Germany,DEU,2018,Europe,Europe,632.28,287.385,454.522
+Germany,DEU,2019,Europe,Europe,600.09,235.526,392.484
+Germany,DEU,2020,Europe,Europe,566.75,201.552,355.628
+Germany,DEU,2021,Europe,Europe,578.83,228.436,394.651
+Germany,DEU,2022,Europe,Europe,566.88,237.924,419.708
+Germany,DEU,2023,Europe,Europe,506.72,184.237,363.587
+Germany,DEU,2024,Europe,Europe,491.819,167.156,339.873
+India,IND,2000,Asia,Asia,571.39,422.846,740.03
+India,IND,2001,Asia,Asia,586.09,438.046,747.404
+India,IND,2002,Asia,Asia,609.64,460.745,755.766
+India,IND,2003,Asia,Asia,638.13,483.691,757.982
+India,IND,2004,Asia,Asia,698.32,505.435,723.787
+India,IND,2005,Asia,Asia,704.52,517.151,734.047
+India,IND,2006,Asia,Asia,744.43,538.254,723.042
+India,IND,2007,Asia,Asia,796.26,571.624,717.886
+India,IND,2008,Asia,Asia,828.41,607.289,733.078
+India,IND,2009,Asia,Asia,878.63,654.175,744.54
+India,IND,2010,Asia,Asia,936.39,692.393,739.428
+India,IND,2011,Asia,Asia,1032.32,745.504,722.164
+India,IND,2012,Asia,Asia,1088.42,808.645,742.953
+India,IND,2013,Asia,Asia,1141.23,843.525,739.137
+India,IND,2014,Asia,Asia,1258.68,935.75,743.438
+India,IND,2015,Asia,Asia,1310.56,984.028,750.845
+India,IND,2016,Asia,Asia,1394.93,1049.198,752.151
+India,IND,2017,Asia,Asia,1462.39,1087.155,743.41
+India,IND,2018,Asia,Asia,1571.65,1159.978,738.064
+India,IND,2019,Asia,Asia,1600.98,1157.47,722.976
+India,IND,2020,Asia,Asia,1562.095,1108.997,709.942
+India,IND,2021,Asia,Asia,1677.385,1201.313,716.182
+India,IND,2022,Asia,Asia,1803.289,1274.113,706.55
+India,IND,2023,Asia,Asia,1916.934,1369.05,714.187
+India,IND,2024,Asia,Asia,2035.197,1439.086,707.099
+Indonesia,IDN,2000,Asia,Asia,144.553,95.44,660.242
+Indonesia,IDN,2001,Asia,Asia,152.896,100.198,655.334
+Indonesia,IDN,2002,Asia,Asia,161.183,107.616,667.663
+Indonesia,IDN,2003,Asia,Asia,165.673,112.002,676.043
+Indonesia,IDN,2004,Asia,Asia,173.812,116.469,670.086
+Indonesia,IDN,2005,Asia,Asia,182.356,121.546,666.531
+Indonesia,IDN,2006,Asia,Asia,188.705,128.251,679.638
+Indonesia,IDN,2007,Asia,Asia,201.353,136.534,678.083
+Indonesia,IDN,2008,Asia,Asia,210.268,141.057,670.844
+Indonesia,IDN,2009,Asia,Asia,217.194,146.547,674.729
+Indonesia,IDN,2010,Asia,Asia,235.292,151.936,645.734
+Indonesia,IDN,2011,Asia,Asia,257.864,174.102,675.17
+Indonesia,IDN,2012,Asia,Asia,280.07,193.731,691.723
+Indonesia,IDN,2013,Asia,Asia,303.116,209.412,690.864
+Indonesia,IDN,2014,Asia,Asia,295.296,203.094,687.764
+Indonesia,IDN,2015,Asia,Asia,301.011,207.433,689.121
+Indonesia,IDN,2016,Asia,Asia,318.582,218.418,685.594
+Indonesia,IDN,2017,Asia,Asia,333.12,229.243,688.169
+Indonesia,IDN,2018,Asia,Asia,359.707,247.332,687.593
+Indonesia,IDN,2019,Asia,Asia,381.951,266.876,698.718
+Indonesia,IDN,2020,Asia,Asia,379.98,263.004,692.152
+Indonesia,IDN,2021,Asia,Asia,405.963,282.948,696.98
+Indonesia,IDN,2022,Asia,Asia,440.677,309.219,701.691
+Indonesia,IDN,2023,Asia,Asia,474.387,337.036,710.466
+Indonesia,IDN,2024,Asia,Asia,507.263,360.342,710.365
+Iran,IRN,2000,Asia,Middle East,119.348,79.656,667.426
+Iran,IRN,2001,Asia,Middle East,127.603,85.203,667.719
+Iran,IRN,2002,Asia,Middle East,138.225,90.097,651.814
+Iran,IRN,2003,Asia,Middle East,151.645,98.414,648.976
+Iran,IRN,2004,Asia,Middle East,162.755,104.425,641.609
+Iran,IRN,2005,Asia,Middle East,177.077,112.681,636.339
+Iran,IRN,2006,Asia,Middle East,193.43,120.851,624.779
+Iran,IRN,2007,Asia,Middle East,203.131,128.148,630.864
+Iran,IRN,2008,Asia,Middle East,210.48,139.418,662.381
+Iran,IRN,2009,Asia,Middle East,221.807,147.902,666.805
+Iran,IRN,2010,Asia,Middle East,235.681,155.845,661.254
+Iran,IRN,2011,Asia,Middle East,235.588,154.103,654.121
+Iran,IRN,2012,Asia,Middle East,248.756,161.272,648.314
+Iran,IRN,2013,Asia,Middle East,258.852,164.014,633.621
+Iran,IRN,2014,Asia,Middle East,275.628,177.547,644.154
+Iran,IRN,2015,Asia,Middle East,280.238,182.396,650.861
+Iran,IRN,2016,Asia,Middle East,286.143,183.737,642.116
+Iran,IRN,2017,Asia,Middle East,305.164,195.825,641.704
+Iran,IRN,2018,Asia,Middle East,312.35,205.493,657.893
+Iran,IRN,2019,Asia,Middle East,318.885,192.994,605.215
+Iran,IRN,2020,Asia,Middle East,337.219,212.563,630.341
+Iran,IRN,2021,Asia,Middle East,356.412,234.349,657.523
+Iran,IRN,2022,Asia,Middle East,367.073,239.043,651.214
+Iran,IRN,2023,Asia,Middle East,382.018,243.872,638.378
+Iran,IRN,2024,Asia,Middle East,395.786,254.676,643.469
+Italy,ITA,2000,Europe,Europe,269.94,135.407,501.619
+Italy,ITA,2001,Europe,Europe,271.9,135.592,498.683
+Italy,ITA,2002,Europe,Europe,277.53,145.163,523.053
+Italy,ITA,2003,Europe,Europe,286.27,149.797,523.272
+Italy,ITA,2004,Europe,Europe,293.71,150.085,510.997
+Italy,ITA,2005,Europe,Europe,294.63,150.306,510.152
+Italy,ITA,2006,Europe,Europe,305.61,154.867,506.747
+Italy,ITA,2007,Europe,Europe,306.17,154.544,504.765
+Italy,ITA,2008,Europe,Europe,311.57,151.265,485.493
+Italy,ITA,2009,Europe,Europe,286.36,131.321,458.587
+Italy,ITA,2010,Europe,Europe,296.63,132.443,446.492
+Italy,ITA,2011,Europe,Europe,298.37,132.957,445.611
+Italy,ITA,2012,Europe,Europe,295.25,129.371,438.174
+Italy,ITA,2013,Europe,Europe,286.02,114.111,398.962
+Italy,ITA,2014,Europe,Europe,276.53,104.89,379.308
+Italy,ITA,2015,Europe,Europe,279.7,111.523,398.724
+Italy,ITA,2016,Europe,Europe,285.95,111.389,389.54
+Italy,ITA,2017,Europe,Europe,292.09,114.73,392.79
+Italy,ITA,2018,Europe,Europe,286.06,104.944,366.86
+Italy,ITA,2019,Europe,Europe,289.99,101.868,351.281
+Italy,ITA,2020,Europe,Europe,276.81,92.508,334.193
+Italy,ITA,2021,Europe,Europe,285.49,96.81,339.101
+Italy,ITA,2022,Europe,Europe,280.17,105.862,377.849
+Italy,ITA,2023,Europe,Europe,261.55,84.556,323.288
+Italy,ITA,2024,Europe,Europe,267.564,75.302,281.435
+Japan,JPN,2000,Asia,Asia,1099.671,466.733,424.43
+Japan,JPN,2001,Asia,Asia,1083.142,459.311,424.054
+Japan,JPN,2002,Asia,Asia,1103.081,478.501,433.786
+Japan,JPN,2003,Asia,Asia,1092.595,520.492,476.381
+Japan,JPN,2004,Asia,Asia,1121.193,504.891,450.316
+Japan,JPN,2005,Asia,Asia,1153.062,532.559,461.865
+Japan,JPN,2006,Asia,Asia,1164.348,520.824,447.31
+Japan,JPN,2007,Asia,Asia,1180.109,554.959,470.261
+Japan,JPN,2008,Asia,Asia,1183.72,574.457,485.298
+Japan,JPN,2009,Asia,Asia,1114.003,512.76,460.286
+Japan,JPN,2010,Asia,Asia,1156.023,516.444,446.742
+Japan,JPN,2011,Asia,Asia,1104.183,558.068,505.413
+Japan,JPN,2012,Asia,Asia,1106.88,658.183,594.629
+Japan,JPN,2013,Asia,Asia,1087.76,648.302,595.997
+Japan,JPN,2014,Asia,Asia,1062.729,628.724,591.613
+Japan,JPN,2015,Asia,Asia,1030.114,595.551,578.141
+Japan,JPN,2016,Asia,Asia,1063.694,603.247,567.125
+Japan,JPN,2017,Asia,Asia,1076.326,601.014,558.394
+Japan,JPN,2018,Asia,Asia,1082.861,586.47,541.593
+Japan,JPN,2019,Asia,Asia,1047.291,553.645,528.645
+Japan,JPN,2020,Asia,Asia,1010.77,533.646,527.96
+Japan,JPN,2021,Asia,Asia,1034.66,532.426,514.59
+Japan,JPN,2022,Asia,Asia,1040.55,540.765,519.692
+Japan,JPN,2023,Asia,Asia,1006.722,495.906,492.595
+Japan,JPN,2024,Asia,Asia,1014.974,491.593,484.34
+Malaysia,MYS,2000,Asia,Asia,69.905,40.678,581.904
+Malaysia,MYS,2001,Asia,Asia,75.776,45.471,600.071
+Malaysia,MYS,2002,Asia,Asia,80.88,50.004,618.249
+Malaysia,MYS,2003,Asia,Asia,83.3,52.584,631.261
+Malaysia,MYS,2004,Asia,Asia,96.06,62.408,649.677
+Malaysia,MYS,2005,Asia,Asia,98.75,64.437,652.527
+Malaysia,MYS,2006,Asia,Asia,103.994,67.867,652.605
+Malaysia,MYS,2007,Asia,Asia,108.539,71.884,662.287
+Malaysia,MYS,2008,Asia,Asia,113.823,74.113,651.125
+Malaysia,MYS,2009,Asia,Asia,116.114,77.408,666.655
+Malaysia,MYS,2010,Asia,Asia,125.045,86.153,688.976
+Malaysia,MYS,2011,Asia,Asia,127.069,87.135,685.73
+Malaysia,MYS,2012,Asia,Asia,134.077,91.544,682.772
+Malaysia,MYS,2013,Asia,Asia,140.985,93.899,666.021
+Malaysia,MYS,2014,Asia,Asia,147.461,97.657,662.256
+Malaysia,MYS,2015,Asia,Asia,150.123,100.461,669.191
+Malaysia,MYS,2016,Asia,Asia,156.665,101.723,649.303
+Malaysia,MYS,2017,Asia,Asia,160.634,99.682,620.554
+Malaysia,MYS,2018,Asia,Asia,170.578,107.511,630.275
+Malaysia,MYS,2019,Asia,Asia,178.493,111.872,626.758
+Malaysia,MYS,2020,Asia,Asia,174.004,110.504,635.066
+Malaysia,MYS,2021,Asia,Asia,178.58,110.168,616.911
+Malaysia,MYS,2022,Asia,Asia,192.455,117.105,608.48
+Malaysia,MYS,2023,Asia,Asia,202.754,123.657,609.887
+Malaysia,MYS,2024,Asia,Asia,211.167,127.614,604.327
+Mexico,MEX,2000,North America,Latin America and Caribbean,203.628,106.974,525.34
+Mexico,MEX,2001,North America,Latin America and Caribbean,210.212,114.347,543.96
+Mexico,MEX,2002,North America,Latin America and Caribbean,215.722,119.386,553.425
+Mexico,MEX,2003,North America,Latin America and Caribbean,224.903,128.229,570.152
+Mexico,MEX,2004,North America,Latin America and Caribbean,235.397,130.396,553.941
+Mexico,MEX,2005,North America,Latin America and Caribbean,247.971,137.829,555.827
+Mexico,MEX,2006,North America,Latin America and Caribbean,256.225,140.123,546.875
+Mexico,MEX,2007,North America,Latin America and Caribbean,263.25,145.898,554.218
+Mexico,MEX,2008,North America,Latin America and Caribbean,269.3,140.588,522.05
+Mexico,MEX,2009,North America,Latin America and Caribbean,267.754,148.376,554.15
+Mexico,MEX,2010,North America,Latin America and Caribbean,292.159,158.891,543.851
+Mexico,MEX,2011,North America,Latin America and Caribbean,302.0,163.424,541.139
+Mexico,MEX,2012,North America,Latin America and Caribbean,303.755,167.239,550.572
+Mexico,MEX,2013,North America,Latin America and Caribbean,311.237,171.562,551.226
+Mexico,MEX,2014,North America,Latin America and Caribbean,316.177,166.853,527.72
+Mexico,MEX,2015,North America,Latin America and Caribbean,322.975,173.114,535.998
+Mexico,MEX,2016,North America,Latin America and Caribbean,326.967,175.44,536.568
+Mexico,MEX,2017,North America,Latin America and Caribbean,331.382,176.356,532.183
+Mexico,MEX,2018,North America,Latin America and Caribbean,339.63,176.781,520.511
+Mexico,MEX,2019,North America,Latin America and Caribbean,349.081,181.008,518.527
+Mexico,MEX,2020,North America,Latin America and Caribbean,353.228,173.594,491.45
+Mexico,MEX,2021,North America,Latin America and Caribbean,358.013,167.817,468.746
+Mexico,MEX,2022,North America,Latin America and Caribbean,367.978,175.607,477.221
+Mexico,MEX,2023,North America,Latin America and Caribbean,385.1,192.364,499.517
+Mexico,MEX,2024,North America,Latin America and Caribbean,388.067,190.054,489.745
+Norway,NOR,2000,Europe,Europe,142.52,3.662,25.695
+Norway,NOR,2001,Europe,Europe,121.32,3.258,26.855
+Norway,NOR,2002,Europe,Europe,130.24,3.452,26.505
+Norway,NOR,2003,Europe,Europe,106.67,2.948,27.637
+Norway,NOR,2004,Europe,Europe,110.1,3.065,27.838
+Norway,NOR,2005,Europe,Europe,137.25,3.711,27.038
+Norway,NOR,2006,Europe,Europe,121.22,3.378,27.867
+Norway,NOR,2007,Europe,Europe,136.11,3.89,28.58
+Norway,NOR,2008,Europe,Europe,141.19,3.869,27.403
+Norway,NOR,2009,Europe,Europe,130.97,5.12,39.093
+Norway,NOR,2010,Europe,Europe,123.14,5.277,42.854
+Norway,NOR,2011,Europe,Europe,125.93,4.826,38.323
+Norway,NOR,2012,Europe,Europe,146.18,4.7,32.152
+Norway,NOR,2013,Europe,Europe,133.14,4.517,33.927
+Norway,NOR,2014,Europe,Europe,140.88,4.775,33.894
+Norway,NOR,2015,Europe,Europe,143.0,4.819,33.699
+Norway,NOR,2016,Europe,Europe,148.03,4.907,33.149
+Norway,NOR,2017,Europe,Europe,148.27,4.881,32.92
+Norway,NOR,2018,Europe,Europe,145.94,4.838,33.151
+Norway,NOR,2019,Europe,Europe,133.83,4.478,33.46
+Norway,NOR,2020,Europe,Europe,154.32,4.694,30.417
+Norway,NOR,2021,Europe,Europe,157.13,4.227,26.901
+Norway,NOR,2022,Europe,Europe,145.42,4.305,29.604
+Norway,NOR,2023,Europe,Europe,153.63,4.678,30.45
+Norway,NOR,2024,Europe,Europe,157.105,4.657,29.643
+Poland,POL,2000,Europe,Europe,143.18,136.678,954.589
+Poland,POL,2001,Europe,Europe,143.72,136.464,949.513
+Poland,POL,2002,Europe,Europe,142.49,134.749,945.673
+Poland,POL,2003,Europe,Europe,150.01,142.476,949.777
+Poland,POL,2004,Europe,Europe,152.54,143.584,941.288
+Poland,POL,2005,Europe,Europe,155.29,144.76,932.191
+Poland,POL,2006,Europe,Europe,160.7,149.758,931.91
+Poland,POL,2007,Europe,Europe,158.52,146.692,925.385
+Poland,POL,2008,Europe,Europe,154.5,141.919,918.57
+Poland,POL,2009,Europe,Europe,150.86,136.508,904.865
+Poland,POL,2010,Europe,Europe,156.77,140.008,893.079
+Poland,POL,2011,Europe,Europe,162.87,143.595,881.654
+Poland,POL,2012,Europe,Europe,161.48,139.004,860.812
+Poland,POL,2013,Europe,Europe,163.78,141.388,863.28
+Poland,POL,2014,Europe,Europe,158.35,133.661,844.086
+Poland,POL,2015,Europe,Europe,164.3,135.743,826.19
+Poland,POL,2016,Europe,Europe,166.0,135.877,818.536
+Poland,POL,2017,Europe,Europe,169.91,136.876,805.579
+Poland,POL,2018,Europe,Europe,169.43,137.071,809.013
+Poland,POL,2019,Europe,Europe,163.22,125.944,771.621
+Poland,POL,2020,Europe,Europe,157.15,116.019,738.269
+Poland,POL,2021,Europe,Europe,178.79,135.229,756.357
+Poland,POL,2022,Europe,Europe,178.6,130.827,732.514
+Poland,POL,2023,Europe,Europe,165.52,107.728,650.846
+Poland,POL,2024,Europe,Europe,172.094,104.713,608.464
+Russia,RUS,2000,Europe,Europe,877.764,412.487,469.929
+Russia,RUS,2001,Europe,Europe,891.284,408.483,458.308
+Russia,RUS,2002,Europe,Europe,891.286,412.697,463.035
+Russia,RUS,2003,Europe,Europe,916.286,426.328,465.278
+Russia,RUS,2004,Europe,Europe,931.9,422.838,453.738
+Russia,RUS,2005,Europe,Europe,954.1,436.403,457.398
+Russia,RUS,2006,Europe,Europe,992.1,458.859,462.513
+Russia,RUS,2007,Europe,Europe,1018.7,466.763,458.195
+Russia,RUS,2008,Europe,Europe,1040.0,494.101,475.097
+Russia,RUS,2009,Europe,Europe,993.1,448.981,452.1
+Russia,RUS,2010,Europe,Europe,1038.033,475.42,458.001
+Russia,RUS,2011,Europe,Europe,1054.857,486.622,461.316
+Russia,RUS,2012,Europe,Europe,1069.289,493.867,461.865
+Russia,RUS,2013,Europe,Europe,1059.086,476.776,450.177
+Russia,RUS,2014,Europe,Europe,1064.196,478.127,449.285
+Russia,RUS,2015,Europe,Europe,1067.543,474.37,444.357
+Russia,RUS,2016,Europe,Europe,1090.97,483.05,442.771
+Russia,RUS,2017,Europe,Europe,1091.184,479.813,439.718
+Russia,RUS,2018,Europe,Europe,1109.198,487.397,439.414
+Russia,RUS,2019,Europe,Europe,1118.143,492.129,440.131
+Russia,RUS,2020,Europe,Europe,1085.419,453.415,417.733
+Russia,RUS,2021,Europe,Europe,1157.086,493.951,426.892
+Russia,RUS,2022,Europe,Europe,1166.935,517.456,443.432
+Russia,RUS,2023,Europe,Europe,1178.249,526.17,446.569
+Russia,RUS,2024,Europe,Europe,1209.32,536.357,443.519
+Saudi Arabia,SAU,2000,Asia,Middle East,138.683,96.017,692.349
+Saudi Arabia,SAU,2001,Asia,Middle East,146.093,101.849,697.152
+Saudi Arabia,SAU,2002,Asia,Middle East,154.906,108.383,699.669
+Saudi Arabia,SAU,2003,Asia,Middle East,166.588,116.432,698.922
+Saudi Arabia,SAU,2004,Asia,Middle East,173.405,121.468,700.487
+Saudi Arabia,SAU,2005,Asia,Middle East,191.055,133.768,700.154
+Saudi Arabia,SAU,2006,Asia,Middle East,196.311,136.974,697.74
+Saudi Arabia,SAU,2007,Asia,Middle East,204.434,142.182,695.491
+Saudi Arabia,SAU,2008,Asia,Middle East,204.201,141.879,694.801
+Saudi Arabia,SAU,2009,Asia,Middle East,217.307,150.008,690.305
+Saudi Arabia,SAU,2010,Asia,Middle East,248.774,172.002,691.399
+Saudi Arabia,SAU,2011,Asia,Middle East,259.153,179.146,691.275
+Saudi Arabia,SAU,2012,Asia,Middle East,281.627,195.107,692.785
+Saudi Arabia,SAU,2013,Asia,Middle East,294.728,204.263,693.056
+Saudi Arabia,SAU,2014,Asia,Middle East,328.202,227.308,692.586
+Saudi Arabia,SAU,2015,Asia,Middle East,350.641,243.031,693.105
+Saudi Arabia,SAU,2016,Asia,Middle East,357.66,249.383,697.263
+Saudi Arabia,SAU,2017,Asia,Middle East,394.992,276.483,699.971
+Saudi Arabia,SAU,2018,Asia,Middle East,374.783,263.422,702.865
+Saudi Arabia,SAU,2019,Asia,Middle East,378.536,265.627,701.722
+Saudi Arabia,SAU,2020,Asia,Middle East,380.894,267.348,701.896
+Saudi Arabia,SAU,2021,Asia,Middle East,392.944,276.011,702.418
+Saudi Arabia,SAU,2022,Asia,Middle East,409.839,286.911,700.058
+Saudi Arabia,SAU,2023,Asia,Middle East,433.239,302.243,697.636
+Saudi Arabia,SAU,2024,Asia,Middle East,458.413,315.87,689.051
+South Africa,ZAF,2000,Africa,Africa,210.66,168.404,799.411
+South Africa,ZAF,2001,Africa,Africa,210.09,169.388,806.264
+South Africa,ZAF,2002,Africa,Africa,220.58,176.962,802.258
+South Africa,ZAF,2003,Africa,Africa,234.24,189.176,807.616
+South Africa,ZAF,2004,Africa,Africa,244.61,197.386,806.942
+South Africa,ZAF,2005,Africa,Africa,244.93,199.06,812.722
+South Africa,ZAF,2006,Africa,Africa,253.81,206.475,813.502
+South Africa,ZAF,2007,Africa,Africa,263.49,213.438,810.042
+South Africa,ZAF,2008,Africa,Africa,258.29,209.066,809.424
+South Africa,ZAF,2009,Africa,Africa,249.56,201.618,807.894
+South Africa,ZAF,2010,Africa,Africa,259.59,209.646,807.604
+South Africa,ZAF,2011,Africa,Africa,262.48,210.923,803.577
+South Africa,ZAF,2012,Africa,Africa,257.87,208.109,807.031
+South Africa,ZAF,2013,Africa,Africa,255.95,204.681,799.691
+South Africa,ZAF,2014,Africa,Africa,254.77,201.673,791.588
+South Africa,ZAF,2015,Africa,Africa,250.05,197.782,790.97
+South Africa,ZAF,2016,Africa,Africa,252.81,197.052,779.447
+South Africa,ZAF,2017,Africa,Africa,255.14,196.183,768.923
+South Africa,ZAF,2018,Africa,Africa,256.3,198.543,774.651
+South Africa,ZAF,2019,Africa,Africa,253.07,193.418,764.287
+South Africa,ZAF,2020,Africa,Africa,240.74,183.733,763.201
+South Africa,ZAF,2021,Africa,Africa,245.46,182.015,741.526
+South Africa,ZAF,2022,Africa,Africa,239.146,174.36,729.094
+South Africa,ZAF,2023,Africa,Africa,232.938,166.426,714.465
+South Africa,ZAF,2024,Africa,Africa,247.494,177.64,717.755
+South Korea,KOR,2000,Asia,Asia,290.443,134.068,461.598
+South Korea,KOR,2001,Asia,Asia,309.886,147.276,475.259
+South Korea,KOR,2002,Asia,Asia,332.021,156.968,472.765
+South Korea,KOR,2003,Asia,Asia,347.756,159.238,457.902
+South Korea,KOR,2004,Asia,Asia,368.034,170.265,462.634
+South Korea,KOR,2005,Asia,Asia,389.48,175.091,449.551
+South Korea,KOR,2006,Asia,Asia,402.989,181.825,451.191
+South Korea,KOR,2007,Asia,Asia,425.407,201.489,473.638
+South Korea,KOR,2008,Asia,Asia,442.611,211.253,477.288
+South Korea,KOR,2009,Asia,Asia,452.447,224.085,495.273
+South Korea,KOR,2010,Asia,Asia,495.028,247.615,500.204
+South Korea,KOR,2011,Asia,Asia,518.168,257.575,497.088
+South Korea,KOR,2012,Asia,Asia,531.202,266.619,501.916
+South Korea,KOR,2013,Asia,Asia,537.169,274.901,511.759
+South Korea,KOR,2014,Asia,Asia,540.379,266.619,493.393
+South Korea,KOR,2015,Asia,Asia,547.802,267.135,487.649
+South Korea,KOR,2016,Asia,Asia,560.985,274.525,489.362
+South Korea,KOR,2017,Asia,Asia,576.412,294.817,511.469
+South Korea,KOR,2018,Asia,Asia,592.905,307.614,518.825
+South Korea,KOR,2019,Asia,Asia,586.806,291.645,497.004
+South Korea,KOR,2020,Asia,Asia,577.112,264.135,457.684
+South Korea,KOR,2021,Asia,Asia,607.768,279.615,460.069
+South Korea,KOR,2022,Asia,Asia,622.585,272.695,438.004
+South Korea,KOR,2023,Asia,Asia,620.954,266.159,428.629
+South Korea,KOR,2024,Asia,Asia,627.784,257.435,410.069
+Spain,ESP,2000,Europe,Europe,220.92,104.025,470.872
+Spain,ESP,2001,Europe,Europe,233.07,98.469,422.487
+Spain,ESP,2002,Europe,Europe,239.91,115.623,481.943
+Spain,ESP,2003,Europe,Europe,257.3,110.434,429.203
+Spain,ESP,2004,Europe,Europe,276.61,124.233,449.127
+Spain,ESP,2005,Europe,Europe,289.46,137.515,475.074
+Spain,ESP,2006,Europe,Europe,295.59,127.906,432.714
+Spain,ESP,2007,Europe,Europe,301.86,132.453,438.79
+Spain,ESP,2008,Europe,Europe,309.79,120.9,390.264
+Spain,ESP,2009,Europe,Europe,290.72,103.22,355.05
+Spain,ESP,2010,Europe,Europe,297.8,85.835,288.23
+Spain,ESP,2011,Europe,Europe,291.54,98.32,337.244
+Spain,ESP,2012,Europe,Europe,293.95,103.204,351.094
+Spain,ESP,2013,Europe,Europe,281.46,80.75,286.897
+Spain,ESP,2014,Europe,Europe,274.44,79.311,288.992
+Spain,ESP,2015,Europe,Europe,277.17,91.031,328.43
+Spain,ESP,2016,Europe,Europe,270.7,76.599,282.966
+Spain,ESP,2017,Europe,Europe,272.38,89.676,329.231
+Spain,ESP,2018,Europe,Europe,271.4,78.936,290.847
+Spain,ESP,2019,Europe,Europe,270.52,66.735,246.692
+Spain,ESP,2020,Europe,Europe,259.47,51.68,199.175
+Spain,ESP,2021,Europe,Europe,270.75,52.404,193.551
+Spain,ESP,2022,Europe,Europe,287.15,62.347,217.123
+Spain,ESP,2023,Europe,Europe,279.11,47.354,169.661
+Spain,ESP,2024,Europe,Europe,280.922,41.087,146.258
+Sweden,SWE,2000,Europe,Europe,145.23,6.507,44.805
+Sweden,SWE,2001,Europe,Europe,161.6,7.543,46.677
+Sweden,SWE,2002,Europe,Europe,146.7,8.239,56.162
+Sweden,SWE,2003,Europe,Europe,135.39,9.275,68.506
+Sweden,SWE,2004,Europe,Europe,151.56,7.284,48.06
+Sweden,SWE,2005,Europe,Europe,158.36,6.833,43.149
+Sweden,SWE,2006,Europe,Europe,143.28,7.118,49.679
+Sweden,SWE,2007,Europe,Europe,148.82,6.86,46.096
+Sweden,SWE,2008,Europe,Europe,149.9,7.178,47.885
+Sweden,SWE,2009,Europe,Europe,136.6,6.984,51.127
+Sweden,SWE,2010,Europe,Europe,148.45,9.457,63.705
+Sweden,SWE,2011,Europe,Europe,150.28,7.862,52.316
+Sweden,SWE,2012,Europe,Europe,166.44,7.43,44.641
+Sweden,SWE,2013,Europe,Europe,153.03,6.835,44.664
+Sweden,SWE,2014,Europe,Europe,153.56,6.178,40.232
+Sweden,SWE,2015,Europe,Europe,162.0,6.632,40.938
+Sweden,SWE,2016,Europe,Europe,155.89,6.713,43.062
+Sweden,SWE,2017,Europe,Europe,164.23,6.971,42.447
+Sweden,SWE,2018,Europe,Europe,163.36,6.989,42.783
+Sweden,SWE,2019,Europe,Europe,168.42,7.136,42.37
+Sweden,SWE,2020,Europe,Europe,163.78,6.334,38.674
+Sweden,SWE,2021,Europe,Europe,171.78,7.161,41.687
+Sweden,SWE,2022,Europe,Europe,173.05,7.096,41.005
+Sweden,SWE,2023,Europe,Europe,166.05,6.383,38.44
+Sweden,SWE,2024,Europe,Europe,172.023,6.005,34.908
+Taiwan (China),TWN,2000,Asia,Asia,184.841,117.451,635.416
+Taiwan (China),TWN,2001,Asia,Asia,188.53,123.373,654.395
+Taiwan (China),TWN,2002,Asia,Asia,198.829,130.121,654.437
+Taiwan (China),TWN,2003,Asia,Asia,209.072,139.258,666.077
+Taiwan (China),TWN,2004,Asia,Asia,218.397,145.027,664.052
+Taiwan (China),TWN,2005,Asia,Asia,227.512,151.383,665.385
+Taiwan (China),TWN,2006,Asia,Asia,235.53,157.736,669.707
+Taiwan (China),TWN,2007,Asia,Asia,243.117,162.857,669.871
+Taiwan (China),TWN,2008,Asia,Asia,238.305,157.36,660.33
+Taiwan (China),TWN,2009,Asia,Asia,230.037,151.35,657.938
+Taiwan (China),TWN,2010,Asia,Asia,247.059,161.429,653.403
+Taiwan (China),TWN,2011,Asia,Asia,252.167,164.54,652.504
+Taiwan (China),TWN,2012,Asia,Asia,250.373,162.63,649.551
+Taiwan (China),TWN,2013,Asia,Asia,252.341,162.582,644.295
+Taiwan (China),TWN,2014,Asia,Asia,259.964,167.867,645.732
+Taiwan (China),TWN,2015,Asia,Asia,258.142,167.91,650.456
+Taiwan (China),TWN,2016,Asia,Asia,264.108,174.154,659.404
+Taiwan (China),TWN,2017,Asia,Asia,270.256,185.133,685.028
+Taiwan (China),TWN,2018,Asia,Asia,275.497,185.292,672.574
+Taiwan (China),TWN,2019,Asia,Asia,274.141,178.048,649.476
+Taiwan (China),TWN,2020,Asia,Asia,280.172,181.555,648.013
+Taiwan (China),TWN,2021,Asia,Asia,291.414,189.892,651.623
+Taiwan (China),TWN,2022,Asia,Asia,288.407,184.428,639.471
+Taiwan (China),TWN,2023,Asia,Asia,282.82,182.272,644.481
+Taiwan (China),TWN,2024,Asia,Asia,289.106,183.63,635.165
+Thailand,THA,2000,Asia,Asia,95.521,58.128,608.536
+Thailand,THA,2001,Asia,Asia,100.987,61.142,605.444
+Thailand,THA,2002,Asia,Asia,108.442,64.325,593.174
+Thailand,THA,2003,Asia,Asia,115.935,68.564,591.4
+Thailand,THA,2004,Asia,Asia,124.133,74.397,599.333
+Thailand,THA,2005,Asia,Asia,130.426,78.368,600.862
+Thailand,THA,2006,Asia,Asia,136.767,81.867,598.587
+Thailand,THA,2007,Asia,Asia,142.538,86.506,606.898
+Thailand,THA,2008,Asia,Asia,145.437,88.558,608.91
+Thailand,THA,2009,Asia,Asia,145.907,88.398,605.852
+Thailand,THA,2010,Asia,Asia,157.575,95.543,606.333
+Thailand,THA,2011,Asia,Asia,153.316,92.127,600.896
+Thailand,THA,2012,Asia,Asia,168.956,101.032,597.978
+Thailand,THA,2013,Asia,Asia,168.634,101.65,602.785
+Thailand,THA,2014,Asia,Asia,173.764,104.658,602.3
+Thailand,THA,2015,Asia,Asia,184.35,107.741,584.437
+Thailand,THA,2016,Asia,Asia,187.64,108.927,580.511
+Thailand,THA,2017,Asia,Asia,185.51,105.123,566.67
+Thailand,THA,2018,Asia,Asia,187.366,103.124,550.388
+Thailand,THA,2019,Asia,Asia,197.267,107.32,544.034
+Thailand,THA,2020,Asia,Asia,185.602,102.785,553.793
+Thailand,THA,2021,Asia,Asia,186.699,102.19,547.352
+Thailand,THA,2022,Asia,Asia,191.323,103.501,540.975
+Thailand,THA,2023,Asia,Asia,205.239,107.901,525.733
+Thailand,THA,2024,Asia,Asia,217.311,113.977,524.488
+Türkiye,TUR,2000,Asia,Europe,124.38,71.418,574.192
+Türkiye,TUR,2001,Asia,Europe,122.24,73.999,605.358
+Türkiye,TUR,2002,Asia,Europe,128.46,68.912,536.447
+Türkiye,TUR,2003,Asia,Europe,139.54,73.24,524.867
+Türkiye,TUR,2004,Asia,Europe,149.75,74.008,494.21
+Türkiye,TUR,2005,Asia,Europe,161.63,87.861,543.593
+Türkiye,TUR,2006,Asia,Europe,176.25,94.743,537.549
+Türkiye,TUR,2007,Asia,Europe,191.52,110.66,577.799
+Türkiye,TUR,2008,Asia,Europe,198.37,117.728,593.477
+Türkiye,TUR,2009,Asia,Europe,194.81,112.437,577.162
+Türkiye,TUR,2010,Asia,Europe,211.18,110.913,525.206
+Türkiye,TUR,2011,Asia,Europe,229.39,124.136,541.157
+Türkiye,TUR,2012,Asia,Europe,239.49,126.437,527.943
+Türkiye,TUR,2013,Asia,Europe,240.15,122.512,510.148
+Türkiye,TUR,2014,Asia,Europe,251.95,142.966,567.438
+Türkiye,TUR,2015,Asia,Europe,261.77,132.166,504.894
+Türkiye,TUR,2016,Asia,Europe,274.4,143.645,523.488
+Türkiye,TUR,2017,Asia,Europe,297.29,159.09,535.134
+Türkiye,TUR,2018,Asia,Europe,300.15,162.908,542.755
+Türkiye,TUR,2019,Asia,Europe,300.18,146.98,489.64
+Türkiye,TUR,2020,Asia,Europe,302.0,146.032,483.55
+Türkiye,TUR,2021,Asia,Europe,327.88,164.54,501.83
+Türkiye,TUR,2022,Asia,Europe,320.56,156.808,489.169
+Türkiye,TUR,2023,Asia,Europe,319.79,158.26,494.887
+Türkiye,TUR,2024,Asia,Europe,341.23,160.647,470.788
+United Arab Emirates,ARE,2000,Asia,Middle East,39.944,27.032,676.747
+United Arab Emirates,ARE,2001,Asia,Middle East,43.172,29.216,676.735
+United Arab Emirates,ARE,2002,Asia,Middle East,46.856,31.709,676.733
+United Arab Emirates,ARE,2003,Asia,Middle East,49.45,33.465,676.744
+United Arab Emirates,ARE,2004,Asia,Middle East,52.417,35.473,676.746
+United Arab Emirates,ARE,2005,Asia,Middle East,60.698,41.077,676.744
+United Arab Emirates,ARE,2006,Asia,Middle East,62.438,42.254,676.735
+United Arab Emirates,ARE,2007,Asia,Middle East,78.761,53.301,676.744
+United Arab Emirates,ARE,2008,Asia,Middle East,80.463,54.452,676.733
+United Arab Emirates,ARE,2009,Asia,Middle East,85.698,57.991,676.69
+United Arab Emirates,ARE,2010,Asia,Middle East,93.949,63.567,676.612
+United Arab Emirates,ARE,2011,Asia,Middle East,99.137,67.077,676.609
+United Arab Emirates,ARE,2012,Asia,Middle East,106.222,71.869,676.592
+United Arab Emirates,ARE,2013,Asia,Middle East,109.995,74.383,676.24
+United Arab Emirates,ARE,2014,Asia,Middle East,116.545,78.674,675.053
+United Arab Emirates,ARE,2015,Asia,Middle East,127.383,86.016,675.255
+United Arab Emirates,ARE,2016,Asia,Middle East,129.613,87.515,675.202
+United Arab Emirates,ARE,2017,Asia,Middle East,134.569,90.599,673.253
+United Arab Emirates,ARE,2018,Asia,Middle East,136.014,91.292,671.196
+United Arab Emirates,ARE,2019,Asia,Middle East,138.454,91.397,660.125
+United Arab Emirates,ARE,2020,Asia,Middle East,137.31,88.657,645.67
+United Arab Emirates,ARE,2021,Asia,Middle East,149.053,90.544,607.462
+United Arab Emirates,ARE,2022,Asia,Middle East,155.438,86.482,556.376
+United Arab Emirates,ARE,2023,Asia,Middle East,167.533,81.98,489.336
+United Arab Emirates,ARE,2024,Asia,Middle East,179.258,85.566,477.334
+United Kingdom,GBR,2000,Europe,Europe,377.06,196.821,521.989
+United Kingdom,GBR,2001,Europe,Europe,384.77,203.545,529.004
+United Kingdom,GBR,2002,Europe,Europe,387.24,201.71,520.891
+United Kingdom,GBR,2003,Europe,Europe,398.21,213.745,536.765
+United Kingdom,GBR,2004,Europe,Europe,393.92,211.151,536.025
+United Kingdom,GBR,2005,Europe,Europe,398.35,213.212,535.238
+United Kingdom,GBR,2006,Europe,Europe,397.27,222.209,559.34
+United Kingdom,GBR,2007,Europe,Europe,396.81,220.658,556.08
+United Kingdom,GBR,2008,Europe,Europe,388.96,215.633,554.383
+United Kingdom,GBR,2009,Europe,Europe,376.76,190.132,504.65
+United Kingdom,GBR,2010,Europe,Europe,382.06,197.599,517.194
+United Kingdom,GBR,2011,Europe,Europe,367.97,183.85,499.633
+United Kingdom,GBR,2012,Europe,Europe,363.87,195.481,537.228
+United Kingdom,GBR,2013,Europe,Europe,358.28,181.619,506.919
+United Kingdom,GBR,2014,Europe,Europe,338.08,156.496,462.896
+United Kingdom,GBR,2015,Europe,Europe,338.87,134.795,397.778
+United Kingdom,GBR,2016,Europe,Europe,339.18,113.097,333.442
+United Kingdom,GBR,2017,Europe,Europe,338.22,102.203,302.179
+United Kingdom,GBR,2018,Europe,Europe,333.76,95.354,285.696
+United Kingdom,GBR,2019,Europe,Europe,327.19,87.826,268.425
+United Kingdom,GBR,2020,Europe,Europe,310.301,75.273,242.581
+United Kingdom,GBR,2021,Europe,Europe,307.9,82.229,267.064
+United Kingdom,GBR,2022,Europe,Europe,324.58,82.781,255.04
+United Kingdom,GBR,2023,Europe,Europe,292.53,68.925,235.617
+United Kingdom,GBR,2024,Europe,Europe,284.16,61.513,216.473
+United States,USA,2000,North America,North America,3802.1,2309.837,607.516
+United States,USA,2001,North America,North America,3727.57,2273.398,609.887
+United States,USA,2002,North America,North America,3844.23,2309.075,600.66
+United States,USA,2003,North America,North America,3868.94,2345.886,606.338
+United States,USA,2004,North America,North America,3951.95,2380.82,602.442
+United States,USA,2005,North America,North America,4034.99,2438.706,604.39
+United States,USA,2006,North America,North America,4046.94,2409.771,595.455
+United States,USA,2007,North America,North America,4142.57,2479.231,598.477
+United States,USA,2008,North America,North America,4107.53,2428.919,591.333
+United States,USA,2009,North America,North America,3939.82,2226.086,565.022
+United States,USA,2010,North America,North America,4113.94,2348.401,570.84
+United States,USA,2011,North America,North America,4088.87,2251.059,550.533
+United States,USA,2012,North America,North America,4040.67,2152.948,532.82
+United States,USA,2013,North America,North America,4055.61,2163.628,533.49
+United States,USA,2014,North America,North America,4096.01,2168.654,529.455
+United States,USA,2015,North America,North America,4083.99,2062.187,504.944
+United States,USA,2016,North America,North America,4087.56,1975.898,483.393
+United States,USA,2017,North America,North America,4052.31,1900.804,469.067
+United States,USA,2018,North America,North America,4201.55,1943.766,462.631
+United States,USA,2019,North America,North America,4158.38,1827.387,439.447
+United States,USA,2020,North America,North America,4043.18,1664.698,411.73
+United States,USA,2021,North America,North America,4153.62,1760.219,423.779
+United States,USA,2022,North America,North America,4286.89,1759.282,410.387
+United States,USA,2023,North America,North America,4253.91,1671.363,392.9
+United States,USA,2024,North America,North America,4391.02,1685.316,383.81
+Viet Nam,VNM,2000,Asia,Asia,26.561,8.549,321.863
+Viet Nam,VNM,2001,Asia,Asia,30.608,8.905,290.937
+Viet Nam,VNM,2002,Asia,Asia,35.796,12.323,344.256
+Viet Nam,VNM,2003,Asia,Asia,40.925,15.381,375.834
+Viet Nam,VNM,2004,Asia,Asia,46.209,18.818,407.237
+Viet Nam,VNM,2005,Asia,Asia,52.078,24.085,462.479
+Viet Nam,VNM,2006,Asia,Asia,57.917,25.974,448.469
+Viet Nam,VNM,2007,Asia,Asia,64.147,28.155,438.914
+Viet Nam,VNM,2008,Asia,Asia,70.96,29.933,421.829
+Viet Nam,VNM,2009,Asia,Asia,80.643,33.266,412.509
+Viet Nam,VNM,2010,Asia,Asia,91.722,41.425,451.636
+Viet Nam,VNM,2011,Asia,Asia,101.499,41.371,407.6
+Viet Nam,VNM,2012,Asia,Asia,115.147,42.82,371.872
+Viet Nam,VNM,2013,Asia,Asia,124.454,46.57,374.194
+Viet Nam,VNM,2014,Asia,Asia,141.25,57.075,404.071
+Viet Nam,VNM,2015,Asia,Asia,161.928,78.787,486.556
+Viet Nam,VNM,2016,Asia,Asia,179.167,88.082,491.62
+Viet Nam,VNM,2017,Asia,Asia,194.717,84.244,432.648
+Viet Nam,VNM,2018,Asia,Asia,217.184,105.466,485.607
+Viet Nam,VNM,2019,Asia,Asia,236.886,132.034,557.374
+Viet Nam,VNM,2020,Asia,Asia,244.447,129.773,530.884
+Viet Nam,VNM,2021,Asia,Asia,254.98,121.237,475.477
+Viet Nam,VNM,2022,Asia,Asia,267.293,110.794,414.504
+Viet Nam,VNM,2023,Asia,Asia,282.0,131.562,466.532
+Viet Nam,VNM,2024,Asia,Asia,310.633,148.178,477.02

@@ -1,0 +1,37 @@
+-- Measures for the one-table Power BI Service route.
+-- Rename the imported table to ElectricityData before adding these measures.
+Total Generation (TWh) = SUM(ElectricityData[Generation_TWh])
+
+Power Sector Emissions (MtCO2e) = SUM(ElectricityData[Emissions_MtCO2e])
+
+Clean Generation (TWh) =
+    SUM(ElectricityData[Solar_TWh])
+    + SUM(ElectricityData[Wind_TWh])
+    + SUM(ElectricityData[Hydro_TWh])
+    + SUM(ElectricityData[Bioenergy_TWh])
+    + SUM(ElectricityData[Other_renewables_TWh])
+    + SUM(ElectricityData[Nuclear_TWh])
+
+Fossil Generation (TWh) =
+    SUM(ElectricityData[Coal_TWh])
+    + SUM(ElectricityData[Gas_TWh])
+    + SUM(ElectricityData[Other_fossil_TWh])
+
+Clean Share (%) = DIVIDE([Clean Generation (TWh)], [Total Generation (TWh)])
+
+Fossil Share (%) = DIVIDE([Fossil Generation (TWh)], [Total Generation (TWh)])
+
+Wind + Solar Share (%) =
+    DIVIDE(
+        SUM(ElectricityData[Wind_TWh]) + SUM(ElectricityData[Solar_TWh]),
+        [Total Generation (TWh)]
+    )
+
+Carbon Intensity (gCO2e/kWh) =
+    DIVIDE(
+        SUMX(
+            ElectricityData,
+            ElectricityData[Intensity_gCO2e_kWh] * ElectricityData[Generation_TWh]
+        ),
+        [Total Generation (TWh)]
+    )
